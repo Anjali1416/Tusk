@@ -28,7 +28,7 @@ public class CollectionConversion {
 		for(int e:set2)
 		{
 			System.err.print(e);
-			System.err.print(e);
+			
 		}
 		
 		
