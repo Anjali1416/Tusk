@@ -12,7 +12,7 @@ public class CollectionConversion {
 		al.add(1);
 		al.add(3);
 		al.add(3);
-
+al.add(4);
 		al.add(4);
 
 		al.add(9);
