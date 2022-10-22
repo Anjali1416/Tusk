@@ -12,11 +12,14 @@ public class CollectionConversion {
 		al.add(1);
 		al.add(3);
 		al.add(3);
-                al.add(4);
 		al.add(4);
-                al.add(12);
+    al.add(10);
+		al.add(9);
+    al.add(4);
+		al.add(4);
+    al.add(12);
 		al.add(13);
-                al.add(9);
+    al.add(9);
 		Set<Integer> set1=new LinkedHashSet<>(al);
 		Set<Integer> set=new LinkedHashSet<>(arr1.length);
 		for (int i = 0; i < arr1.length; i++) {
